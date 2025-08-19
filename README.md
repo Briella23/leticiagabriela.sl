@@ -11,11 +11,6 @@
 
 ### 🔧 Tech & Ferramentas
 
-![Git](https://img.shields.io/badge/Git-–?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-–?logo=github)
-![Excel](https://img.shields.io/badge/Excel-–?logo=microsoft-excel)
-![Notion](https://img.shields.io/badge/Notion-–?logo=notion)
-![Windows](https://img.shields.io/badge/Windows-–?logo=windows)
 
 ---
 
