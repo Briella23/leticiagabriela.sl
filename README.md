@@ -2,7 +2,7 @@
 
 **Profissional de Atendimento & Administrativo** | curiosa por tecnologia e desenvolvimento pessoal. 
 
-- 🌱 Atualmente estudando: *Git/GitHub, Excel Avançado e Noções de Front-end*  
+- 🌱 Atualmente estudando: *Git/GitHub, Scractch Pithon, lua (programação em Roblox) e Noções de Front-end*  
 - 🎯 Buscando oportunidades em: *Atendimento, Administrativo, RH/DP (junior)*  
 - 🤝 Aberta a colaborar em projetos simples para aprender e contribuir  
 - 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/letíciagabrieladasilva)  
