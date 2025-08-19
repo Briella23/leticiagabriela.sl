@@ -21,17 +21,12 @@
 
 ### 📌 Projetos em destaque
 
-- **Organizador de Tarefas** — Kanban simples para estudos. [Repositório](#)
-- **Relatórios no Excel** — planilhas com dashboards básicos. [Repositório](#)
-- **Currículo Profissional** — modelo + README de como personalizar. [Repositório](#)
+
 
 ---
 
 ### 🗂️ Como eu trabalho
 
-- Organização no **Notion** e **Issues** do GitHub  
-- Commits pequenos com mensagens claras (`feat:`, `fix:`, `docs:`...)  
-- Checklists no README para acompanhar o progresso  
 
 ---
 
